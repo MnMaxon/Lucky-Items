@@ -1,0 +1,10 @@
+name: Lucky_Items
+version: 2.0
+main: me.MnMaxon.LuckyItems.Main
+commands:
+   LuckyItems:
+      description: Displays Help
+   LI:
+      description: Displays Help
+   LuckyItem:
+      description: Displays Help

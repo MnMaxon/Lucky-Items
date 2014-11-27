@@ -1,0 +1,17 @@
+version: 2.1:
+Added unsafe enchantments
+(You can add any enchantment to any item at any level)
+
+version: 2.0:
+I recoded this plugin, hopefully improving lag
+You can now add customizable items to the config
+
+Version 1.4
+Added /li reload  due to lag issue
+
+Version 1.3
+Added Broadcast_Finds, and Out_Of_1000
+Stopped players from being able to used silk touch pickaxes.
+
+Version 1.0
+Initial Release
